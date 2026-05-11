@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BenjaminYoung
 - 👀 I’m interested in a variety of topics such as software development, control/power systems, machienes and electronic design.
-- 🌱 I’m currently Studying Bachelor of Computer Systems and Electrical/Electronic Engineering (Honours) at UON
+- 🌱 I’m currently employed at an engineering firm in NSW Australia.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  PH: 0411385507, Email: BenjaminYoung7198@gmail.com 
 
